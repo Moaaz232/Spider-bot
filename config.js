@@ -8,8 +8,8 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201554582851', '❄️ 𝙑𝙀𝙉𝙊𝙈 🧿', true],
-  ['201033024135', '🔥 𝙎𝙊𝙆𝙐𝙉𝘼 🧿', true],
+  ['201030947624', '❄️ 𓆩🕸️S𝑷𝑰𝑫𝑬𝑹🕸️𓆪 🧿', true],
+  ['201156323742', '🔥 DEX/ديكس 🧿', true],
 ];
 
 global.xaxa = 'kaneki'
@@ -38,10 +38,10 @@ global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
-global.gt = '★𝑺𝛩𝐾𝑈𝑁𝐴 - 𝑉𝐸𝑁𝛩𝑀 𝐵𝛩𝑇★';
-global.mysticbot = '★𝑺𝛩𝐾𝑈𝑁𝐴 - 𝑉𝐸𝑁𝛩𝑀 𝐵𝛩𝑇★';
-global.md = 'https://chat.whatsapp.com/BjrqiXLZKmZ3jW7vEDyV27';
-global.mysticbot = 'https://chat.whatsapp.com/BjrqiXLZKmZ3jW7vEDyV27';
+global.gt = '★𓆩🕸️S𝑷𝑰𝑫𝑬𝑹🕸️𓆪 - 𓆩🕸️S𝑷𝑰𝑫𝑬𝑹🕸️𓆪★';
+global.mysticbot = '★𓆩🕸️S𝑷𝑰𝑫𝑬𝑹🕸️𓆪 - 𓆩🕸️S𝑷𝑰𝑫𝑬𝑹🕸️𓆪★';
+global.md = 'https://chat.whatsapp.com/EEamjgnhqy2EosXHpqiShH';
+global.mysticbot = 'https://chat.whatsapp.com/EEamjgnhqy2EosXHpqiShH';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▰▰▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▰▰▰▱▱*';
